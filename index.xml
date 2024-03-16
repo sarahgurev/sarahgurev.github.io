@@ -108,24 +108,6 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     </item>
     
     <item>
-      <title>Deep generative models predict SARS-CoV-2 Spike infectivity and foreshadow neutralizing antibody escape</title>
-      <link>https://example.com/publication/youssef_2023/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/youssef_2023/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
- --&gt;</description>
-    </item>
-    
-    <item>
       <title>Removing bias in sequence models of protein fitness</title>
       <link>https://example.com/publication/shaw_2023/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
@@ -337,7 +319,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-879164523&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-469271538&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -347,7 +329,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-879164523&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-469271538&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -771,6 +753,24 @@ $$&lt;/p&gt;
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/external-project/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Deep generative models predict SARS-CoV-2 Spike infectivity and foreshadow neutralizing antibody escape</title>
+      <link>https://example.com/publication/youssef_2023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/youssef_2023/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+ --&gt;</description>
     </item>
     
   </channel>
