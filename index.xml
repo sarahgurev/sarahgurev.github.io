@@ -33,7 +33,7 @@
     </item>
     
     <item>
-      <title>Deep generative models predict SARS-CoV-2 Spike infectivity and foreshadow neutralizing antibody escape</title>
+      <title>Protein design for evaluating vaccines against future viral variation</title>
       <link>https://example.com/publication/youssef_2023/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/youssef_2023/</guid>
@@ -337,7 +337,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-751846239&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-713854962&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -347,7 +347,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-751846239&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-713854962&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
