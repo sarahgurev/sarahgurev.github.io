@@ -182,7 +182,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     </item>
     
     <item>
-      <title>Reprogramming Cancer into AntigenPresenting Cells as a Novel Immunotherapy</title>
+      <title>Reprogramming Cancer into Antigen-Presenting Cells as a Novel Immunotherapy</title>
       <link>https://example.com/publication/linde_2023/</link>
       <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/linde_2023/</guid>
@@ -393,7 +393,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-476359281&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-358176492&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -403,7 +403,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-476359281&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-358176492&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
