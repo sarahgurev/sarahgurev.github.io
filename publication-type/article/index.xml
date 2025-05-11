@@ -5,12 +5,30 @@
     <link>https://example.com/publication-type/article/</link>
       <atom:link href="https://example.com/publication-type/article/index.xml" rel="self" type="application/rss+xml" />
     <description>article</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>article</title>
       <link>https://example.com/publication-type/article/</link>
     </image>
+    
+    <item>
+      <title>Computationally designed proteins mimic antibody immune evasion in viral evolution</title>
+      <link>https://example.com/publication/youssef_2024/</link>
+      <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/youssef_2024/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+ --&gt;</description>
+    </item>
     
     <item>
       <title>Alignment-based and protein foundation models for viral evolution, vaccines and vectors</title>
@@ -66,24 +84,6 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 
 Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Protein design for evaluating vaccines against future viral variation</title>
-      <link>https://example.com/publication/youssef_2024/</link>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/youssef_2024/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
- --&gt;</description>
     </item>
     
     <item>
