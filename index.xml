@@ -33,10 +33,10 @@
     </item>
     
     <item>
-      <title>Variant effect prediction with reliability estimation across priority viruses</title>
-      <link>https://example.com/publication/gurev_2025/</link>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/gurev_2025/</guid>
+      <title>Evaluating variant effect prediction across viruses</title>
+      <link>https://example.com/publication/gurev_2026/</link>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/gurev_2026/</guid>
       <description>&lt;!-- 
 
 
@@ -449,7 +449,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-165947832&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-762531894&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -459,7 +459,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-165947832&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-762531894&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

@@ -5,7 +5,7 @@
     <link>https://example.com/tag/source-themes/</link>
       <atom:link href="https://example.com/tag/source-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Source Themes</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Source Themes</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Variant effect prediction with reliability estimation across priority viruses</title>
-      <link>https://example.com/publication/gurev_2025/</link>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/gurev_2025/</guid>
+      <title>Evaluating variant effect prediction across viruses</title>
+      <link>https://example.com/publication/gurev_2026/</link>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/gurev_2026/</guid>
       <description>&lt;!-- 
 
 

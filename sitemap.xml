@@ -11,27 +11,27 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication-type/article/</loc>
-    <lastmod>2025-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/gurev_2026/</loc>
+    <lastmod>2026-01-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication_types/</loc>
-    <lastmod>2025-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/</loc>
-    <lastmod>2025-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/source-themes/</loc>
-    <lastmod>2025-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tags/</loc>
-    <lastmod>2025-08-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication/gurev_2025/</loc>
-    <lastmod>2025-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/mehrotra_2025/</loc>
